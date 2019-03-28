@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Dak425/role-call-api/internal/game/features/player"
+	"github.com/Dak425/role-call-api/pkg/api"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/render"
